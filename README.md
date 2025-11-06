@@ -36,7 +36,7 @@ Installation & quickstart
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/caterpillar.git
+git clone https://github.com/<AnuragPatil3781>/caterpillar.git
 cd caterpillar
 
 
